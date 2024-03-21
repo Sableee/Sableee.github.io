@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Sable Landingham # your name (or website title) here
+logo: "/images/4eff8554-5a1f-4de2-8966-04dbadf277fd.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  What's up! My name is Sable Landingham and this is my Programming Portfolio. 
   <br><br>
-  Second description 
+  I have worked on my interesting projects this semester, so please don't be afraid to browse. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/sablelandingham/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
