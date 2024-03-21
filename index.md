@@ -8,10 +8,16 @@
 <img src="images/adventure.png?raw=true"/>
 
 ---
+
+### Recursion Exercise
+
 [Recursion Exercise](/sample_1)
 <img src="images/recursion.png?raw=true"/>
 
 ---
+
+### Cumulative Verse Song
+
 [Cumulative Verse Song](/sample_2)
 <img src="images/verse.png?raw=true"/>
 
