@@ -5,15 +5,15 @@
 ### Adventure Game Midterm
 
 [Casino Catchers!](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/adventrue.png?raw=true"/>
 
 ---
 [Recursion Exercise](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/recursion.png?raw=true"/>
 
 ---
 [Cumulative Verse Song](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/verse.png?raw=true"/>
 
 ---
 
