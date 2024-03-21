@@ -4,8 +4,6 @@
 
 ### 1. Program.cs 
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
 ```javascript
 using System;
 using System.Collections.Generic;
@@ -144,7 +142,7 @@ namespace AdventureGame
 }
 
 ```
-**### 4. Casino1.cs**
+### 4. Casino1.cs
 
 ```javascript
 using System;
