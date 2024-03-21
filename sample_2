@@ -1,0 +1,25 @@
+## Cumulative Verse Song
+
+**Project description:** For this excercise we focus on repetition in programming and what that means for certain songs that we can relate to. I've decided to do 12 days Christmas for this exercise. 
+
+### 1. Program.cs 
+
+```javascript
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AdventureGame;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Game game = new Game();
+    }
+
+}
+
+```
