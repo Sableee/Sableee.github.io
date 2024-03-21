@@ -5,7 +5,6 @@
 ### 1. Program.cs 
 
 ```javascript
-
 namespace CumulativeVerseSong;
 class Program
 {
