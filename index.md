@@ -4,7 +4,7 @@
 
 ### Adventure Game Midterm
 
-[Casino Catchers!](/md/AdventureGame)
+[Casino Catchers!](/AdventureGame)
 <img src="images/adventure.png?raw=true"/>
 
 ---
