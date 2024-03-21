@@ -5,7 +5,7 @@
 ### Adventure Game Midterm
 
 [Casino Catchers!](/sample_page)
-<img src="images/adventrue.png?raw=true"/>
+<img src="images/adventure.png?raw=true"/>
 
 ---
 [Recursion Exercise](/pdf/sample_presentation.pdf)
