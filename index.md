@@ -8,11 +8,11 @@
 <img src="images/adventure.png?raw=true"/>
 
 ---
-[Recursion Exercise](/pdf/sample_presentation.pdf)
+[Recursion Exercise](/sample_1)
 <img src="images/recursion.png?raw=true"/>
 
 ---
-[Cumulative Verse Song](http://example.com/)
+[Cumulative Verse Song](sample_2)
 <img src="images/verse.png?raw=true"/>
 
 ---
