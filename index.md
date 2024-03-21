@@ -12,7 +12,7 @@
 <img src="images/recursion.png?raw=true"/>
 
 ---
-[Cumulative Verse Song](sample_2)
+[Cumulative Verse Song](/sample_2)
 <img src="images/verse.png?raw=true"/>
 
 ---
